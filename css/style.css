@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    width: 70%;
+    max-width: 1170px;
     margin: auto;
 }
 
@@ -20,3 +20,44 @@ h1 {
     text-align: center;
     padding: 20px;
 }
+
+.intro{
+    text-align: center;
+     ;
+}
+
+.section{
+padding-top: 40px;
+}
+
+.clearfix {
+    content: ;
+    clear: both;
+    display: table;
+}
+
+
+img {
+    width: 80px;
+    float: left;
+}
+
+.desc {
+    font-size: 12px;
+}
+
+.jobtitle, h3 {
+ color: #ffff;
+}
+
+.email {
+    color: rgb(65, 130, 190);
+}
+
+.column {
+   width:33,33%;
+   background-color: black;
+   width: 300px;
+  
+}
+
